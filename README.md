@@ -42,7 +42,9 @@ Demonstrates:
 * Authentication
 * Redirecting to the marketplace after successful login
 
-🎬 **Demo Video:** `Add your Sign In video link here`
+🎬 **Demo Video:** `
+https://github.com/user-attachments/assets/281e378d-40f6-431b-9915-eaa10c51a135
+`
 
 ---
 
