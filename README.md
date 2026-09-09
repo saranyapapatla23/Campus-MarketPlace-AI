@@ -65,7 +65,11 @@ Demonstrates the complete seller workflow:
 * Listing the product
 * Product appearing in **Recent Activity**
 
-🎬 **Demo Video:** `Add your Sell Product video link here`
+🎬 **Demo Video:** `
+
+https://github.com/user-attachments/assets/303e9c2d-7147-4760-b255-10d0d21740ac
+
+`
 
 ---
 
