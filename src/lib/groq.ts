@@ -96,7 +96,7 @@ ${imageDescription ? `Image Details: ${imageDescription}` : ''}`,
     },
   ];
 
-  return callGroq<ProductDescriptionResult>(messages, 0.8, 1000);
+  return callGroq<ProductDescriptionResult>(messages, 0.8, 2000);
 }
 
 export interface PriceRecommendationResult {
