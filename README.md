@@ -24,7 +24,13 @@ Demonstrates:
 * College information
 * Account registration
 
-🎬 **Demo Video:** `Add your Create Account video link here`
+🎬 **Demo Video:** `
+
+https://github.com/user-attachments/assets/f6a0b4f9-64d5-407e-ae4d-488851043e8f
+
+
+
+`
 
 ---
 
