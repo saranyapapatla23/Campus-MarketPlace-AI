@@ -43,7 +43,11 @@ Demonstrates:
 * Redirecting to the marketplace after successful login
 
 🎬 **Demo Video:** `
-https://github.com/user-attachments/assets/281e378d-40f6-431b-9915-eaa10c51a135
+
+
+https://github.com/user-attachments/assets/8b303356-f70c-4274-b17e-caa5c4b22616
+
+
 `
 
 ---
